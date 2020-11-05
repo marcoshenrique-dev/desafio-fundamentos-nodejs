@@ -11,7 +11,20 @@ Nesse desafio foi pedido para construir uma api em node.js usando os conceitos p
 Todos os testes foram passados com sucesso na aplicação 😁
 
 
-
+No projeto foram usados :
+  * Typescript
+  * ts-node-dev
+  * eslint
+  * prettier
+  * editor config
+  * Design pattern - Service
+  * Princípios do Solid
+    * SoC (Separation of Concerns)
+    * DRY (Don't Repeat Yourself)
+    * SRP (Single Responsability Principle)
+    * DIP (Dependency Inversion Principle)
+  * Classes
+  * Princípios de arquitetura de software
 
 
 Feito por 🚀 Marcos Henrique baseado no repositório da rocketseat ❤
